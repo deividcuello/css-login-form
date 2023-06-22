@@ -1,3 +1,3 @@
 # Simple login form
 
-![image](https://github.com/deividcuello/css-login-form/assets/112868702/ffdce1f8-6bd0-402c-8e59-17993af83a37)
+![image](https://github.com/deividcuello/css-login-form/assets/112868702/d63747a2-fc69-430a-822d-b30cdff16e23)
